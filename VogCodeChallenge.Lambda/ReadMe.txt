@@ -1,0 +1,1 @@
+﻿AWS Lamda function written in NodeJs to process DynamoDb Stream events.

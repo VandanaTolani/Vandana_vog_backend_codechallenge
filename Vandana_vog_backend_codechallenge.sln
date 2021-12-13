@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.API", "VogCodeChallenge.API\VogCodeChallenge.API.csproj", "{38C41CAE-7F2F-4035-A77A-3BB0F9B338C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.DataAccess", "VogCodeChallenge.DataAccess\VogCodeChallenge.DataAccess.csproj", "{F60B5DA9-BB39-4B28-9767-B4E056437D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.Service", "VogCodeChallenge.Service\VogCodeChallenge.Service.csproj", "{45C166D5-BBD1-421A-913F-B04ED1AEDE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.ConsoleApp", "VogCodeChallenge.ConsoleApp\VogCodeChallenge.ConsoleApp.csproj", "{5F91354B-1FE2-42C3-B0CB-332E6F2B8844}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VogCodeChallenge.Lambda", "VogCodeChallenge.Lambda\VogCodeChallenge.Lambda.njsproj", "{93A99353-34B5-47FA-87C9-63D274E18909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C41CAE-7F2F-4035-A77A-3BB0F9B338C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C41CAE-7F2F-4035-A77A-3BB0F9B338C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C41CAE-7F2F-4035-A77A-3BB0F9B338C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C41CAE-7F2F-4035-A77A-3BB0F9B338C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60B5DA9-BB39-4B28-9767-B4E056437D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60B5DA9-BB39-4B28-9767-B4E056437D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60B5DA9-BB39-4B28-9767-B4E056437D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60B5DA9-BB39-4B28-9767-B4E056437D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C166D5-BBD1-421A-913F-B04ED1AEDE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C166D5-BBD1-421A-913F-B04ED1AEDE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C166D5-BBD1-421A-913F-B04ED1AEDE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C166D5-BBD1-421A-913F-B04ED1AEDE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F91354B-1FE2-42C3-B0CB-332E6F2B8844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F91354B-1FE2-42C3-B0CB-332E6F2B8844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F91354B-1FE2-42C3-B0CB-332E6F2B8844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F91354B-1FE2-42C3-B0CB-332E6F2B8844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BABAF4-EC69-49B2-A4BC-91CE4C66B31A}
+	EndGlobalSection
+EndGlobal
